@@ -1,0 +1,19 @@
+{
+  "name": "better-noapikey",
+  "version": "1.5.5",
+  "description": "a API using no-api-key website",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "api",
+    "better",
+    "no-api-key"
+  ],
+  "author": ".nero",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
