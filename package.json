@@ -1,6 +1,6 @@
 {
   "name": "better-noapikey",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "description": "a API using no-api-key website",
   "main": "index.js",
   "scripts": {
